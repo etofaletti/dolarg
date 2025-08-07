@@ -1,0 +1,38 @@
+    .cardRate {
+      background-color: #fff;
+      border-radius: 6px;
+      padding: 20px 30px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+      display: flex;
+      gap: 40px;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 1em;
+    }
+
+    .title {
+      font-weight: bold;
+      font-size: 16px;
+      color: #333;
+    }
+
+    .rates {
+      display: flex;
+    }
+
+    .rate {
+      text-align: center;
+    }
+
+    .label {
+      font-size: 11px;
+      color: #888;
+      text-transform: uppercase;
+      margin-bottom: 5px;
+    }
+
+    .value {
+      font-size: 16px;
+      font-weight: bold;
+      color: #333;
+    }
